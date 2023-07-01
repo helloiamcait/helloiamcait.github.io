@@ -1,6 +1,6 @@
 ---
-layout: about
 title: Product Page Content
+layout: default
 parent: Portfolio
 nav_order: 1
 ---
