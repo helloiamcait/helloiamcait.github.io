@@ -2,7 +2,7 @@
 title: Product Page Content
 layout: default
 parent: Portfolio
-nav_order: 1
+nav_order: 2
 ---
 
 # Product Page Content
