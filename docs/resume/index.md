@@ -1,7 +1,6 @@
 ---
 title: Resume
 layout: page
-nav_order: 4
 ---
 
 # Resume
