@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 layout: default
+permalink: /docs/portfolio/
 has_children: true
 ---
 

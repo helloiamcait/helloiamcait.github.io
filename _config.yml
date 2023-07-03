@@ -9,7 +9,12 @@ url: https://helloiamcait.github.io
 favicon_ico: "/assets/images/favicon.svg"
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Website Repository: https://github.com/helloiamcait
+  Website Repository: https://github.com/helloiamcait/helloiamcait.github.io
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
+
+
 
 # External navigation links
 nav_external_links:
@@ -21,3 +26,14 @@ callouts:
   warning:
     title: Warning
     color: red
+
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: ""
+
