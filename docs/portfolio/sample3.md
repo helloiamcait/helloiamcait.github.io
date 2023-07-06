@@ -1,8 +1,9 @@
 ---
-title: "User Guide: Modifying an InDesign File"
 layout: default
 parent: Portfolio
 ---
+
+<!-- title: "User Guide: Modifying an InDesign File" -->
 
 # How-to guide for preparing blog posts
 
