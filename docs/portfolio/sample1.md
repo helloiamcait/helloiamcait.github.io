@@ -7,7 +7,7 @@ nav_order: 1
 
 # Portfolio Sample Template
 
-Redesigned and developed the [Couple HOPES](https://couplehopes.com/) website.
+Brief description of the project goes here.
 {: .fs-6 .fw-300 }
 
 <img src="../../assets/images/IMG-Placeholder.png" class="table-wrapper" style="width:100%; max-height:20rem; object-fit:cover; overflow-y:clip; object-position: 100% 0; margin-top:2rem;" />
