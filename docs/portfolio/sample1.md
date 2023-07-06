@@ -11,6 +11,10 @@ Created the app store product pages for the [Couple HOPES](https://couplehopes.c
 
 <img src="../../assets/images/CH-App-Store-1.png" class="table-wrapper" style="width:100%; max-height:20rem; object-fit:cover; overflow-y:clip; object-position: 100% 0; margin-top:2rem;" />
 
+## 👩‍💻 Title & Employer
+
+Project Manager @ The TULiP Lab, York University
+
 ## 📌 Context
 
 While working at the [TULiP Lab](https://www.tuliplab.ca/), I was the project manager on several research projects, including an online mental health program called [Couple HOPES](https://couplehopes.com/). The team developed a companion app to go with the web platform, and I was tasked with creating the app store product page content. Following the App Store and Google Play style guidelines, I crafted all elements of the product pages to spec, including the description, screenshots and logo.
@@ -22,6 +26,5 @@ While working at the [TULiP Lab](https://www.tuliplab.ca/), I was the project ma
 
 ## 🔗 Links
 
-[App Store Product Page](https://apps.apple.com/ca/app/couple-hopes/id1500199636){:target="_blank"}
-
-[Google Play Product Page](https://play.google.com/store/apps/details?id=com.couplehopes&hl=en_US&gl=US){:target="_blank"}
+- [App Store Product Page](https://apps.apple.com/ca/app/couple-hopes/id1500199636){:target="_blank"}
+- [Google Play Product Page](https://play.google.com/store/apps/details?id=com.couplehopes&hl=en_US&gl=US){:target="_blank"}
