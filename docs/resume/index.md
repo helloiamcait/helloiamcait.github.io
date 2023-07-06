@@ -1,7 +1,5 @@
 ---
 layout: default
-title: Resume
-permalink: /docs/resume/
 ---
 
 <details open markdown="block">
