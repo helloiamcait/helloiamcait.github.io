@@ -12,7 +12,7 @@ aux_links: # remove if you don't want this link to appear on your pages
   Website Repository: https://github.com/helloiamcait/helloiamcait.github.io
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 
 
@@ -22,6 +22,8 @@ nav_external_links:
     url: https://github.com/helloiamcait
     hide_icon: false # set to true to hide the external link icon - defaults to false
 
+
+# Callouts
 callouts:
   warning:
     title: Warning
@@ -32,8 +34,9 @@ callouts:
 # appears at the bottom of every page's main content
 
 # Back to top link
-back_to_top: false
+back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: ""
+footer_content: "Copyright &copy; 2023 Cait Martin Newnham. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+
 
