@@ -14,14 +14,14 @@ Designed and developed a Shopify website for Dr. Candice Monson [Couple HOPES](h
 
 Designer, Developer & Brand Strategist (Contract) @ Dr. Candice Monson 
 
-## 📌 Context
-
-Dr. Candice Monson, a clinical psychologist, hired me to design and build a portfolio website with e-commerce features. She wanted to be able to sell tickets to her workshops on the website. Through research and analysis, I identified Shopify as the ideal platform, and customized a Shopify theme to meet her specific needs. I created a document to guide the client through launching her website, and included how-to guides for updating and maintaining different types of content.
-
 ## ✨ Highlights
 
 - Designed, prototyped and developed a Shopify website that included a portfolio and an online store to sell workshop tickets
 - Wrote all content, and sourced all images and graphics for the new website
+
+## 📌 Context
+
+Dr. Candice Monson, a clinical psychologist, hired me to design and build a portfolio website with e-commerce features. She wanted to be able to sell tickets to her workshops on the website. Through research and analysis, I identified Shopify as the ideal platform, and customized a Shopify theme to meet her specific needs. I created a document to guide the client through launching her website, and included how-to guides for updating and maintaining different types of content.
 
 ## 🔗 Links
 

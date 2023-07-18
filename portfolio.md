@@ -16,3 +16,15 @@ has_children: false
   {% endfor %}
 {% endfor %}
 </p>
+
+<!-- Print posts
+
+<p>
+  {% for post in site.posts %}
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      {{ post.content }}
+      <hr>
+  {% endfor %}
+<p>
+
+-->

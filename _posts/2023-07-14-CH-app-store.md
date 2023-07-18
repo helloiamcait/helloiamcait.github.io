@@ -15,14 +15,14 @@ Created the app store product pages for the [Couple HOPES](https://couplehopes.c
 
 Project Manager @ The TULiP Lab, York University
 
-## 📌 Context
-
-While working at the [TULiP Lab](https://www.tuliplab.ca/), I was the project manager on several research projects, including an online mental health program called [Couple HOPES](https://couplehopes.com/). The team developed a companion app to go with the web platform, and I was tasked with creating the app store product page content. Following the App Store and Google Play style guidelines, I crafted all elements of the product pages to spec, including the description, screenshots and logo.
-
 ## ✨ Highlights
 
 - Collaborated with clinical psychologists and developers to write content for an app store product page
 - Researched and applied App Store and Google Play style guidelines to deliver the app description, screenshots and logo to spec
+
+## 📌 Context
+
+While working at the [TULiP Lab](https://www.tuliplab.ca/), I was the project manager on several research projects, including an online mental health program called [Couple HOPES](https://couplehopes.com/). The team developed a companion app to go with the web platform, and I was tasked with creating the app store product page content. Following the App Store and Google Play style guidelines, I crafted all elements of the product pages to spec, including the description, screenshots and logo.
 
 ## 🔗 Links
 
