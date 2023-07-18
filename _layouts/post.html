@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="nav-list">
+    <p class="nav-list-item" style="font-size: 12px !important; list-style: none !important; margin-bottom: 0.75rem !important;"><a href="/portfolio/">Portfolio</a><span> / {{ page.title }}</span></p>
+</div>
+
+<h1>{{ page.title }}</h1>
+
+<p>
+    {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+    {% endfor %}
+</p>
+
+{{ content }}
+
