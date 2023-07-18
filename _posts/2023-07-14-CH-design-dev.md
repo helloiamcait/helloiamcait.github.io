@@ -3,7 +3,7 @@ layout: post
 title: Marketing Website
 permalink: /ch-site/
 category: Design and Development
-tags: Design Development Prototyping Writing HTML CSS Javascript CLI
+tags: design development prototyping writing html css javascript cli
 ---
 
 Redesigned and developed the [Couple HOPES](https://couplehopes.com/) website.
