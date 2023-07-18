@@ -3,7 +3,7 @@ layout: post
 title: Shopify Website
 category: Design and Development
 permalink: /shopify-site/
-tags: Design Development Prototyping Writing Liquid HTML CSS Javascript CLI
+tags: design development prototyping writing liquid html css javascript cli
 ---
 
 Designed and developed a Shopify website for Dr. Candice Monson [Couple HOPES](https://couplehopes.com/) website.

@@ -3,7 +3,7 @@ layout: post
 title: App Store Product Page
 permalink: /app-store-page/
 category: Content Writing
-tags: Writing Design
+tags: writing design
 ---
 
 Created the app store product pages for the [Couple HOPES](https://couplehopes.com/) app.
