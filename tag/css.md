@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Skill Tag: css"
-tag: css
+title: "Skill Tag: CSS"
+tag: CSS
 robots: noindex
 nav_exclude: true
 parent: Portfolio
