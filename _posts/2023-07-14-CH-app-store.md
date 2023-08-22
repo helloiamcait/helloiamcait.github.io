@@ -11,9 +11,9 @@ Created the app store product pages for the [Couple HOPES](https://couplehopes.c
 
 <a href="https://apps.apple.com/ca/app/couple-hopes/id1500199636/" target="_blank"><img src="/assets/images/CH-App-Store-1.png" class="table-wrapper" style="width:100%; max-height:20rem; object-fit:cover; overflow-y:clip; object-position: 100% 0; margin-top:2rem;" /></a>
 
-## 👩‍💻 Title & Employer
+## 👩‍💻 Roles
 
-Project Manager @ The TULiP Lab, York University
+Project Manager, Technical Writer, Content Creator
 
 ## 📌 Context
 
