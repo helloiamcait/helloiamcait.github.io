@@ -10,9 +10,9 @@ Redesigned and developed the [Couple HOPES](https://couplehopes.com/) website.
 
 <a href="https://www.couplehopes.com" target="_blank"><img src="/assets/images/CH-site.png" class="table-wrapper" style="width:100%; max-height:20rem; object-fit:cover; overflow-y:clip; object-position: 100% 0; margin-top:2rem;" /></a>
 
-## 👩‍💻 Title & Employer
+## 👩‍💻 Roles 
 
-Project Manager @ The TULiP Lab, York University
+Project Manager, Marketing Manager, Technical Writer, Designer, Developer
 
 ## ✨ Highlights
 
