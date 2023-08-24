@@ -4,15 +4,16 @@ title: Shopify Website for Dr. Candice Monson
 category: Design, Development and Documentation
 permalink: /shopify-site/
 tags: design web-development process-documentation product-documentation system-documentation user-documentation project-management 
+
 ---
 
 Designed and developed a Shopify website for Dr. Candice Monson [Couple HOPES](https://couplehopes.com/) website.
 
 <a href="https://www.candicemonson.com" target="_blank"><img src="/assets/images/shopify-site.png" class="table-wrapper" style="width:100%; max-height:20rem; object-fit:cover; overflow-y:clip; object-position: 100% 0; margin-top:2rem;" /></a>
 
-## 👩‍💻 Title & Employer
+## 👩‍💻 Roles
 
-Designer, Developer & Brand Strategist (Contract) @ Dr. Candice Monson 
+Designer, Developer, Copywriter & Brand Strategist 
 
 ## ✨ Highlights
 
