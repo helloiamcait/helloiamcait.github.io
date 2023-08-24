@@ -1,6 +1,6 @@
-# Welcome to the README.md for my portfolio website!
+# Portfolio
 
-This is a *bare-bones* README.md file for my [portfolio site].
+This is my [portfolio site], where you can learn more about me and my work.
 
 ## About my website
 
