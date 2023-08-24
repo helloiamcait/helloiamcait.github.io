@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Marketing Website
+title: Couple HOPES Marketing Website
 permalink: /ch-site/
-category: Design and Development
-tags: design development prototyping writing html css javascript cli
+category: Design, Development and Documentation
+tags: design web-development process-documentation product-documentation science-communication system-documentation user-documentation project-management marketing 
+
 ---
 
 Redesigned and developed the [Couple HOPES](https://couplehopes.com/) website.

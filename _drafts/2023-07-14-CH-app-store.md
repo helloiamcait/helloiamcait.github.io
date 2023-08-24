@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Store Product Page
+title: Couple HOPES App Store Product Page
 permalink: /app-store-page/
 category: Content Writing
 tags: writing design

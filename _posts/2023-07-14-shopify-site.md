@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Shopify Website
-category: Design and Development
+title: Shopify Website for Dr. Candice Monson
+category: Design, Development and Documentation
 permalink: /shopify-site/
-tags: design development prototyping writing liquid html css javascript cli
+tags: design web-development process-documentation product-documentation system-documentation user-documentation project-management 
 ---
 
 Designed and developed a Shopify website for Dr. Candice Monson [Couple HOPES](https://couplehopes.com/) website.
