@@ -2,7 +2,7 @@
 layout: post
 title: Couple HOPES Marketing Website
 permalink: /ch-site/
-category: Design, Development and Documentation
+category: Design and Development Projects
 tags: design web-development process-documentation product-documentation science-communication system-documentation user-documentation project-management marketing 
 
 ---

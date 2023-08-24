@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shopify Website for Dr. Candice Monson
-category: Design, Development and Documentation
+category: Design and Development Projects
 permalink: /shopify-site/
 tags: design web-development process-documentation product-documentation system-documentation user-documentation project-management 
 
