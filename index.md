@@ -36,6 +36,24 @@ There are three main skills that I have honed throughout education and career:
 
 ---
 
+## Open Source Technical Documentation Contributions
+
+### Improvements to Existing Documentation
+
+-  [**Microsoft Docs / Power Query Docs**](https://github.com/MicrosoftDocs/powerquery-docs/)
+
+### Translations from English to French
+
+-  [**Trail Sense**](https://github.com/kylecorry31/Trail-Sense)
+-  [**Cloudstream**](https://github.com/recloudstream)
+
+### Issues Submitted
+
+-  [**Just the Docs / Just the Docs Template**](https://github.com/just-the-docs/just-the-docs-template/)
+
+
+
+---
 
 ## Education
 >
