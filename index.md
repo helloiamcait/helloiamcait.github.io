@@ -94,7 +94,7 @@ Engaged in contract work with multiple clinical psychologists, specializing in w
 ### **Project Manager** @ [TULiP Lab, York University](https://www.tuliplab.ca/)
 {: .no_toc }
 
-The TULiP Lab is a research group focused on understanding life-threatning behaviors and posttraumatic stress, and examining their treatments. They draw on clinical trial methods and leverage technology to advance mental health treatments.
+The TULiP Lab is a research group focused on understanding life-threatening behaviors and posttraumatic stress, and examining their treatments. They draw on clinical trial methods and leverage technology to advance mental health treatments.
 
 **Portfolio Sample:** [Clinical Research Recruitment Website](/ch-site/) (Design & Development)
 
