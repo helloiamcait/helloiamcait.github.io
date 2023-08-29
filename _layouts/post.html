@@ -8,12 +8,14 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<p> 
-    {% for tag in page.tags %}
-      {% capture tag_name %}{{ tag }}{% endcapture %}
-      <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
-    {% endfor %}
-</p>
 
 {{ content }}
 
+<h2>Skills</h2>
+
+<p> 
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
+  {% endfor %}
+</p>

@@ -1,16 +1,16 @@
-/* .site-title {
-  font-size: 1.32rem !important;
-} */
 
+html {
+  @include fs-3;
+}
 
-/* RESUME FORMATTING */
+// RESUME FORMATTING 
 
 .rdt {
   font-weight: 300 !important;
   margin-block-end: .5em !important;
 }
 
-/* RESUME 2 FORMATTING */
+// RESUME 2 FORMATTING 
 
 .resume-header {
   font-size: $font-size-5 !important;
@@ -31,4 +31,40 @@
   margin-top: 0em !important;
   margin-block-end: 1.5em !important;
 }
+
+// NEW LABEL COLOR
+
+.label-purple-light:not(g) {
+  background-color: $grey-dk-100;
+}
+
+/*
+.main-content {
+  h2 {
+    margin-bottom: .75em !important;;
+  }
+}
+*/
+
+// Print-only styles.
+@media print {
+  .side-bar,
+  .page-header {
+    display: none;
+  }
+  .main-content {
+    max-width: auto;
+    margin: 1em;
+  }
+  .text-delta{
+    display: none;
+  }
+  .print-toc {
+    display: none;
+  }
+}
+
+// BODY FONT SIZE
+
+
 
