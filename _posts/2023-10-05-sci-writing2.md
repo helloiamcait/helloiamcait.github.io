@@ -18,3 +18,12 @@ CBC News, Science
 ## Link
 
 - [Article: *11 new species of chameleon found in Madagascar*](https://www.cbc.ca/news/science/11-new-species-of-chameleon-found-in-madagascar-1.3091615#content){:target="_blank"}
+
+<h2>Skills</h2>
+
+<p> 
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
+  {% endfor %}
+</p>

@@ -19,3 +19,12 @@ As project manager at the [TULiP Lab](https://www.tuliplab.ca/), a large part of
 ## Links
 
 - [Couple HOPES Website](https://couplehopes.com/){:target="_blank"}
+
+<h2>Skills</h2>
+
+<p> 
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
+  {% endfor %}
+</p>

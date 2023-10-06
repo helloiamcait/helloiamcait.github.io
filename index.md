@@ -63,6 +63,7 @@ Experienced technical communicator and creative professional with over five year
   -  Developed and refined instructional materials, including video tutorials and technical guides, enhancing team proficiency in completing technical tasks.
   -  Contributed to scholarly publications in reputable journals, wrote knowledge mobilization reports, and delivered status reports for targeted internal and external stakeholders.
   -  Piloted a multi-channel marketing strategy, leveraging clear communication and detailed documentation, resulting in a 124% surge in study sign-ups.
+  -  **Portfolio Sample:** [Troubleshooting pixelated images in a PDF exported from InDesign](/troubleshooting/) 
   -  **Portfolio Sample:** [Clinical Research Website](/uxui-writing2/) 
 
 ### **Producer** @ [Media One Creative](https://www.tuliplab.ca/)

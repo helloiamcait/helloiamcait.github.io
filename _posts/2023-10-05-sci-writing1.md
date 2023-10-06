@@ -18,3 +18,12 @@ Hakai Magazine
 ## Link
 
 - [Article: *What Happens When a Coral Reef Dies?*](https://hakaimagazine.com/news/what-happens-when-coral-reef-dies/){:target="_blank"}
+
+<h2>Skills</h2>
+
+<p> 
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
+  {% endfor %}
+</p>

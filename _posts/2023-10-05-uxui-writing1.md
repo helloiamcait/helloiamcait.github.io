@@ -20,3 +20,12 @@ Dr. Candice Monson, a clinical psychologist, hired me to design and build a port
 ## Links
 
 - [Dr. Candice Monson's Website](https://candicemonson.com/){:target="_blank"}
+
+<h2>Skills</h2>
+
+<p> 
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge">{{ tag_name }}</code></a>
+  {% endfor %}
+</p>
