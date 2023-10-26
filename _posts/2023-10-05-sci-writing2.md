@@ -1,7 +1,7 @@
 ---
 title: "Article: 11 new species of chameleon found in Madagascar"
 layout: post
-permalink: /sci-writing1/
+permalink: /sci-writing2/
 category: Science Communication
 tags: science-writing science-communication journalism interviewing
 ---

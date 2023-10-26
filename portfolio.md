@@ -19,6 +19,10 @@ has_children: false
 {% endfor %}
 </p>
 
+## Troubleshooting
+
+[Troubleshooting pixelated images in a PDF exported from InDesign](https://docs.iamcait.com/docs/troubleshooting-pixelation/)<base target="_blank">
+
 <!-- Print posts
 
 <p>
